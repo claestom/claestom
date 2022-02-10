@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @claestom
+- 👀 I’m interested in AI and Machine Learning 
+- 🌱 I’m currently studying Artificial Intelligence at the KU Leuven
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/tomclaes-/)
